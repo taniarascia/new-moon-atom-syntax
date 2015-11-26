@@ -10,25 +10,25 @@ This theme was created to be optimized for front end web development - HTML, CSS
 Most of the dark themes I tried using were distracting and overly colorful and contrast heavy, especially with PHP embedded into HTML. The New Moon theme strives to remedy that, with a theme that is pleasant to view in any language.
 
 ## HTML
-![HTML Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/blob/master/images/html.png)
+![HTML Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/master/images/html.png)
 
 ## PHP
-![PHP Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/blob/master/images/php.png)
+![PHP Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/master/images/php.png)
 
 ## PHP/HTML
-![PHP HTML Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/blob/master/images/htmlphp.png)
+![PHP HTML Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/master/images/htmlphp.png)
 
 ## CSS
-![CSS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/blob/master/images/css.png)
+![CSS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/master/images/css.png)
 
 ## Sass/SCSS
-![CSS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/blob/master/images/scss.png)
+![CSS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/master/images/scss.png)
 
 ## LESS
-![CSS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/blob/master/images/less.png)
+![CSS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/master/images/less.png)
 
 ## JavaScript
-![JS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/blob/master/images/js.png)
+![JS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/master/images/js.png)
 
 ## jQuery
-![jQuery Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/blob/master/images/jquery.png) 
+![jQuery Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/master/images/jquery.png) 
