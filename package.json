@@ -1,0 +1,19 @@
+{
+  "name": "new-moon-atom-syntax",
+  "theme": "syntax",
+  "version": "1.1.1",
+  "description": "New Moon Theme for Atom. A beautiful, middle-contrast dark theme inspired by Twilight and Tomorrow Night Eighties. Your new favorite theme.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "new moon",
+    "dark",
+    "twilight",
+    "tomorrow"
+  ],
+  "repository": "https://github.com/taniarascia/new-moon-atom-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
