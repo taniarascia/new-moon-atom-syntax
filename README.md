@@ -1,5 +1,8 @@
 New Moon Theme for Atom
 ===========================
+[Beautiful Syntax Highlighting](http://taniarascia.github.io/new-moon/)
+
+![New Moon Icon](https://github.com/taniarascia/new-moon/blob/master/images/newmoon.png)
 
 **New Moon is also available for [Sublime Text](https://github.com/taniarascia/new-moon-sublime) and [Brackets](https://github.com/taniarascia/new-moon)**
 
