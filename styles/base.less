@@ -355,13 +355,14 @@ atom-text-editor[mini] .scroll-view,
   }
 }
 .bracket-matcher .region {
-    position: absolute;
-    background: rgba(0, 0, 0, 0.4);
-    border: 1px solid rgba(162, 158, 158, 0.4);
-    border-bottom: 1px solid lime;
+  position: absolute;
+  background: rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(162, 158, 158, 0);
+  border-bottom: 1px solid lime;
+  transform: scale(1.15);
 }
 .leading-whitespace {
-    color: rgba(0,0,0,0);
-    position: relative;
-    box-shadow: inset 1px 0 0 rgba(255,255,255,0.1); // It force the shadow to have a different color than the text.
-  }
+  color: rgba(0,0,0,0);
+  position: relative;
+  box-shadow: inset 1px 0 0 rgba(255,255,255,0.1); // It force the shadow to have a different color than the text.
+}
