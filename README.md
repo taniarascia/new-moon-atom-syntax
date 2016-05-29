@@ -1,6 +1,6 @@
-New Moon Color Scheme for Brackets
+New Moon Color Scheme for Atom
 ===========================
-###[Beautiful Syntax Highlighting](http://taniarascia.github.io/new-moon/)
+###[Beautiful Syntax Highlighting](http://taniarascia.github.io/new-moon-atom-syntax/)
 
 ![New Moon Icon](https://raw.githubusercontent.com/taniarascia/new-moon/master/images/newmoon.png)
 
@@ -8,7 +8,7 @@ New Moon Color Scheme for Brackets
 
 *Updated 5/26/16 - Some color tweaks - more similar to Tomorrow Night Eighties. Slightly more contrast and variety with colors. *
 
-This theme was created to be optimized for front end web development - HTML, CSS, JavaScript and PHP/Wordpress. It's a middle-contrast dark theme using color inspiration from Tomorrow Night Eighties, and style inspiration from Twilight. 
+This theme was created to be optimized for front end web development - HTML, CSS, JavaScript and PHP/Wordpress. It's a middle-contrast dark theme using color inspiration from Tomorrow Night Eighties, and style inspiration from Twilight.
 
 Most of the dark themes I tried using were distracting and overly colorful and contrast heavy, especially with PHP embedded into HTML. The New Moon theme strives to remedy that, with a theme that is pleasant to view in any language.
 
