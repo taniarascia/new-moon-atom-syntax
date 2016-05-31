@@ -197,7 +197,7 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 
   &.function  {
-    color: @variable2;
+    color: @keyword;
 
     &.any-method {
       color: @blue;
@@ -344,7 +344,7 @@ atom-text-editor[mini] .scroll-view,
   color: white;
 }
 .entity.other.attribute-name.html {
-  color: @keyword;
+  color: @attribute;
 }
 .support.function.string.php {
   color: @id;
@@ -356,9 +356,9 @@ atom-text-editor[mini] .scroll-view,
 }
 .bracket-matcher .region {
   position: absolute;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(162, 158, 158, 0.4);
   border-bottom: 1px solid lime;
-  transform: scale(1.15);
 }
 .leading-whitespace {
   color: rgba(0,0,0,0);
