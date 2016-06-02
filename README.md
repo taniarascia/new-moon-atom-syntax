@@ -19,28 +19,25 @@ Most of the dark themes I tried using were distracting and overly colorful and c
 * Click `Install`
 
 ## HTML
-![HTML Screenshot](https://github.com/taniarascia/new-moon/blob/master/images/html.png)
+![HTML Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/master/images/html.png)
 
 ## PHP
-![PHP Screenshot](https://github.com/taniarascia/new-moon/blob/master/images/php.png)
+![PHP Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/master/images/php.png)
 
 ## PHP/HTML
-![PHP Screenshot](https://github.com/taniarascia/new-moon/blob/master/images/htmlphp.png)
+![PHP HTML Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/master/images/htmlphp.png)
 
 ## CSS
-![CSS Screenshot](https://github.com/taniarascia/new-moon/blob/master/images/css.png)
+![CSS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/master/images/css.png)
 
 ## Sass/SCSS
-![SCSS Screenshot](https://github.com/taniarascia/new-moon/blob/master/images/scss.png)
+![CSS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/master/images/scss.png)
 
 ## LESS
-![LESS Screenshot](https://github.com/taniarascia/new-moon/blob/master/images/less.png)
+![CSS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/master/images/less.png)
 
 ## JavaScript
-![JS Screenshot](https://github.com/taniarascia/new-moon/blob/master/images/js.png)
+![JS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/master/images/js.png)
 
 ## jQuery
-![jQuery Screenshot](https://github.com/taniarascia/new-moon/blob/master/images/jquery.png)
-
-## Markdown
-![MD Screenshot](https://github.com/taniarascia/new-moon/blob/master/images/md.png)
+![jQuery Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-atom-syntax/master/images/jquery.png) 
