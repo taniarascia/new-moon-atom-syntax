@@ -10,6 +10,8 @@ atom-text-editor, :host {
 
   .indent-guide {
     color: @syntax-indent-guide-color;
+    position: relative;
+    box-shadow: inset 1px 0 0 rgba(255,255,255,0.1);
   }
 
   .invisible-character {
@@ -82,7 +84,7 @@ atom-text-editor .search-results .marker.current-result .region,
   color: @keyword;
 
   &.control {
-    color: @tag;
+    color: @variable;
   }
 
   &.operator {
@@ -103,7 +105,7 @@ atom-text-editor .search-results .marker.current-result .region,
 }
 
 .constant {
-  color: @orange;
+  color: @id;
 
   &.character.escape {
     color: @cyan;
@@ -114,7 +116,7 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 
   &.other.color {
-    color: @cyan;
+    color: @id;
   }
 
   &.other.symbol {
@@ -133,6 +135,7 @@ atom-text-editor .search-results .marker.current-result .region,
     color: @syntax-text-color;
   }
 }
+
 
 .invalid.illegal {
 //  background-color: @red;
@@ -202,7 +205,12 @@ atom-text-editor .search-results .marker.current-result .region,
     &.any-method {
       color: @blue;
     }
+
+    &.misc.scss {
+      color: @tag;
+    }
   }
+
 }
 
 .entity {
@@ -221,14 +229,19 @@ atom-text-editor .search-results .marker.current-result .region,
   &.name.tag {
     color: @tag;
     //text-decoration: underline;
+    &.reference {
+      color: @very-light-gray;
+    }
   }
 
   &.other.attribute-name {
-    color: @orange;
+    color: @variable;
 
     &.id {
       color: @id;
     }
+
+
   }
 }
 
@@ -325,7 +338,7 @@ atom-text-editor[mini] .scroll-view,
   color: @variable;
 }
 .constant.other.color.rgb-value.scss {
-  color: @definition;
+  color: @id;
 }
 .keyword.other.unit {
   color: @number;
